@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="## |US| NEWS ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/USA.png" group-title="USA| NEWS",## |US| NEWS ##
+https://list.iptvcat.com/my_list/s/094bc318aadd19159a99c4a8895207a6.m3u8
+#EXTINF:-1 tvg-id="WCIV.us" tvg-name="|US| ABC NEWS HD" tvg-logo="http://logos.ottcst.net:8080/logos//USA.NEWS/ABC%20NEWS.png" group-title="USA| NEWS",|US| ABC NEWS HD
+https://list.iptvcat.com/my_list/s/e72ff0b1ac5a87ef208e8576e032a359.m3u8
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="|US| AXS TV HD" tvg-logo="http://logos.ottcst.net:8080/logos/USA.CINEMAVIP/AXS%20TV.png" group-title="USA| NEWS",|US| AXS TV HD
+https://list.iptvcat.com/my_list/s/e8d79bc707ec15d4c0af8e963111ed60.m3u8
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="|US| FOX NEWS CHANNEL HD" tvg-logo="http://logos.ottcst.net:8080/logos//USA.NEWS/FOXHD.png" group-title="USA| NEWS",|US| FOX NEWS CHANNEL HD
+https://list.iptvcat.com/my_list/s/291ca6bdde9a60d8528af84ea23eead5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|US| INFOWARS HD" tvg-logo="http://logos.ottcst.net:8080/logos//USA.NEWS/INFOWARS.png" group-title="USA| NEWS",|US| INFOWARS HD
+https://list.iptvcat.com/my_list/s/780ca5d0cf263fafc8cc0deaa85a9e5a.m3u8
+#EXTINF:-1 tvg-id="Logo.us" tvg-name="|US| LOGO HD" tvg-logo="http://logos.ottcst.net:8080/logos/USAUPD/LOGO.png" group-title="USA| NEWS",|US| LOGO HD
+https://list.iptvcat.com/my_list/s/c7a46c539dd0bc9d57d5aab8fa14c7d4.m3u8
